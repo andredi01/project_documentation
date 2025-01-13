@@ -29,9 +29,7 @@ Este projeto demonstra a aplicação de inteligência artificial na criação de
 Foi solicitado ao ChatGPT que atuasse como roteirista de um podcast, criando um diálogo entre uma apresentadora e dois críticos literários discutindo a premissa do livro *"Engrenagens da Consciência"*, sem revelar spoilers.
 
 #### Prompt Utilizado:
-```plaintext
 Agora, quero que você atue como roteirista de um podcast, em que o assunto é a análise da versão demonstração (que contém apenas os dois primeiros capítulos) do livro "Engrenagens da Consciência). O podcast terá 1min30seg, e terá a participação da apresentadora mulher e de dois críticos literários (um homem e uma mulher). Eles falarão a respeito da obra, sem nenhum spoiler, comentando apenas sobre a premissa: uso da IA na Primeira Guerra.
-```
 
 ### 2. Criação da Capa
 
@@ -51,6 +49,3 @@ Este projeto ilustra o potencial das ferramentas de inteligência artificial na 
 
 Para mais detalhes, visite o repositório no GitHub: [prompts-for-podcast-generate-by-ia](https://github.com/andredi01/prompts-for-podcast-generate-by-ia).
 
-### Recursos Adicionais
-
-- [Lance seu próprio podcast gerado por IA (passo a passo)](https://www.youtube.com/watch?pp=ygUOI3BvZGNhc3RjbGlwYWk%3D&v=54JKArp5nq8&utm_source=chatgpt.com)
